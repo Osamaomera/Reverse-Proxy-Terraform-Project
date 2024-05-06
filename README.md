@@ -63,5 +63,9 @@ Before using this Terraform configuration, ensure you have:
   ```
 6. After successful provisioning, access AWS Management Console to view the deployed resources.
 
+## The Output will be :
+
+![](ScreenShots/public_lb_dns.png)
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on GitHub.
