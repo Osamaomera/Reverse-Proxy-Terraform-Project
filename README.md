@@ -12,7 +12,7 @@ This project utilizes Terraform to automate the configuration of an AWS cloud in
 - [Modules](#modules)
 - [Infrastructure Overview](#infrastructure-overview)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#Getting Started)
+- [Getting Started](#GettingStarted)
 - [Contributing](#contributing)
 
 
