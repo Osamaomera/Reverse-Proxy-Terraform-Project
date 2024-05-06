@@ -12,7 +12,7 @@ This project utilizes Terraform to automate the configuration of an AWS cloud in
 - [Modules](#modules)
 - [Infrastructure Overview](#infrastructure-overview)
 - [Prerequisites](#prerequisites)
-- [Getting Started](#GettingStarted)
+- [Getting_Started](#Getting_Started)
 - [Contributing](#contributing)
 
 
@@ -40,7 +40,7 @@ Before using this Terraform configuration, ensure you have:
 - An AWS account with appropriate permissions.
 - Installed Terraform locally. See [Terraform Installation Guide](https://learn.hashicorp.com/tutorials/terraform/install-cli) for instructions.
 
-## Getting Started
+## Getting_Started
 1. Clone this repository to your local machine.
   ```
     git clone https://github.com/Osamaomera/Reverse-Proxy-Terraform-Project.git
