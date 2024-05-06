@@ -12,7 +12,7 @@ This project utilizes Terraform to automate the configuration of an AWS cloud in
 - [Modules](#modules)
 - [Infrastructure Overview](#infrastructure-overview)
 - [Prerequisites](#prerequisites)
-- [Usage](#usage)
+- [Getting Started](#Getting Started)
 - [Contributing](#contributing)
 
 
@@ -40,13 +40,16 @@ Before using this Terraform configuration, ensure you have:
 - An AWS account with appropriate permissions.
 - Installed Terraform locally. See [Terraform Installation Guide](https://learn.hashicorp.com/tutorials/terraform/install-cli) for instructions.
 
-## Usage
+## Getting Started
 1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Run `terraform init` to initialize the working directory.
-4. Run `terraform plan` to review the planned changes.
-5. Run `terraform apply` to apply the Terraform configuration and create the infrastructure.
-6. After successful provisioning, access AWS Management Console to view the deployed resources.
+  ```
+  git clone https://github.com/Osamaomera/Reverse-Proxy-Terraform-Project.git
+  ```
+3. Navigate to the project directory.
+4. Run `terraform init` to initialize the working directory.
+5. Run `terraform plan` to review the planned changes.
+6. Run `terraform apply` to apply the Terraform configuration and create the infrastructure.
+7. After successful provisioning, access AWS Management Console to view the deployed resources.
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on GitHub.
