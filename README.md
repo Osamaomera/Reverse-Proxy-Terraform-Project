@@ -47,11 +47,20 @@ Before using this Terraform configuration, ensure you have:
   ```
 2. Navigate to the project directory.
   ```
-  cd Reverse-Proxy-Terraform-Project
+    cd Reverse-Proxy-Terraform-Project
   ```
 3. Run `terraform init` to initialize the working directory.
+  ```
+    terraform init
+  ```
 4. Run `terraform plan` to review the planned changes.
+  ```
+    terraform plan
+  ```
 5. Run `terraform apply` to apply the Terraform configuration and create the infrastructure.
+  ```
+    terraform apply
+  ```
 6. After successful provisioning, access AWS Management Console to view the deployed resources.
 
 ## Contributing
