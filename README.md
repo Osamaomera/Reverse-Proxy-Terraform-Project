@@ -42,10 +42,11 @@ Before using this Terraform configuration, ensure you have:
 
 ## Getting Started
 1. Clone this repository to your local machine.
-  ```
+```
   git clone https://github.com/Osamaomera/Reverse-Proxy-Terraform-Project.git
-  ```
-3. Navigate to the project directory.
+```
+2. Navigate to the project directory.
+``` cd Reverse-Proxy-Terraform-Project ```
 4. Run `terraform init` to initialize the working directory.
 5. Run `terraform plan` to review the planned changes.
 6. Run `terraform apply` to apply the Terraform configuration and create the infrastructure.
