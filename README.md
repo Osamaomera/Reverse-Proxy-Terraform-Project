@@ -67,5 +67,10 @@ Before using this Terraform configuration, ensure you have:
 
 ![](ScreenShots/public_lb_dns.png)
 
+## Copy it and Go to the browser and Past and go then this page will show to you : 
+
+![](ScreenShots/apache.png)
+
+
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please submit a pull request or open an issue on GitHub.
