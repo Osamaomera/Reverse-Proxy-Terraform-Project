@@ -5,12 +5,16 @@
 ## Description
 This project utilizes Terraform to automate the configuration of an AWS cloud infrastructure. The infrastructure consists of a Virtual Private Cloud (VPC) with subnets distributed across two availability zones. Each subnet is configured with appropriate resources including EC2 instances, security groups, and Application Load Balancers (ALB) to manage traffic.
 
+## Architecture Diagram
+![](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1VPBOGwURUrOXC4qQMoD35QvKGQce1eG8)
+
 ## Table of Contents
 - [Modules](#modules)
 - [Infrastructure Overview](#infrastructure-overview)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Contributing](#contributing)
+
 
 ## Modules
 1. **VPC Module**: Configures the Virtual Private Cloud including CIDR block, subnets, route tables, and internet gateway.
