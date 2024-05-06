@@ -6,7 +6,7 @@
 This project utilizes Terraform to automate the configuration of an AWS cloud infrastructure. The infrastructure consists of a Virtual Private Cloud (VPC) with subnets distributed across two availability zones. Each subnet is configured with appropriate resources including EC2 instances, security groups, and Application Load Balancers (ALB) to manage traffic.It provisions and manages resources on AWS Cloud Provider, enabling the deployment of two Ec2 instance (Apache) with Private subnet and LoadBalancer for Private instances ,also we have Two Ec2 instance (Nginx) with Public subnet and LoadBalancer for Public instances act as Reverse proxy that's can enhance security by acting as an intermediary between clients and servers, shielding the backend infrastructure from direct exposure to the internet and providing an additional layer of defense against attacks.
 
 ## Architecture Diagram
-![](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1VPBOGwURUrOXC4qQMoD35QvKGQce1eG8)
+![](ScreenShots/aws_terraform.drawio.svg)
 
 ## Table of Contents
 - [Modules](#modules)
